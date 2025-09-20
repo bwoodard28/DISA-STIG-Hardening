@@ -8,7 +8,7 @@ This lab demonstrates applying DISA STIG-aligned controls to a Windows 11 VM and
 3. Rebooted VM and reran Tenable STIG audit.
 
 ## Results
-- Baseline scan: 215 failed STIG checks
+- [Baseline scan: 140 failed STIG checks](https://www.github.com/bwoodard28/DISA-STIG-Hardening/reports/brice_STIG_windows11_2gitp9.pdf) 
 - Post-hardening scan: 72 failed STIG checks
 - Example improvements:
   - Password length policy enforced (14+ characters)
